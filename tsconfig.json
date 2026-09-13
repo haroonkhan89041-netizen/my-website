@@ -1,0 +1,1 @@
+{"compilerOptions":{"target":"es2020","lib":["dom","esnext"],"strict":true,"noEmit":true,"module":"esnext","moduleResolution":"bundler","jsx":"preserve","skipLibCheck":true},"include":["**/*.ts","**/*.tsx","next-env.d.ts"]}
