@@ -1,5 +1,1 @@
-const nextConfig = {
-  distDir: "npm run build",
-};
-
-export default nextConfig;
+const nextConfig={};export default nextConfig;
