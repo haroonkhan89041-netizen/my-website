@@ -1,0 +1,1 @@
+import './globals.css';import type{Metadata}from'next';export const metadata:Metadata={title:"HUNAR | Pakistan's Talent. The World's Opportunities.",description:'Global freelance marketplace for talent, services, and ambitious projects.'};export default function RootLayout({children}:{children:React.ReactNode}){return <html lang="en"><body>{children}</body></html>}
